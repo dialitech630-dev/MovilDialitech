@@ -71,7 +71,7 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.7.0")
 
     // Kotlinx Serialization
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0")
 
     // Accompanist (permisos)
     implementation("com.google.accompanist:accompanist-permissions:0.36.0")
